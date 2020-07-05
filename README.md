@@ -3,7 +3,7 @@
 
 Step 1: Run AutoCAD, and open a new project.
 
-Step 2: Run PLDrafter.
+Step 2: Run PLDrafter.exe
 
 Step 3: Input distances and bearings, you can use 'Add Line to Close' to automatically input the last line.
 
