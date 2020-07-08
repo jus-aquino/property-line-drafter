@@ -1,5 +1,8 @@
 # property-lines-drafter
 ### A program that works with AutoCAD to make drafting property lines more user-friendly.
+Note: This program won't work with AutoCAD LT
+
+INSTRUCTIONS
 
 Step 1: Run AutoCAD, and open a new project.
 
